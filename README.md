@@ -1,2 +1,2 @@
 # Openfire-
-HCRoster将roster改造成了最近联系人，
+HCRoster将roster改造成了最近联系人，userRoom是发送iq获取跟自己相关房间的roomID
