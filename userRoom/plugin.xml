@@ -1,0 +1,13 @@
+<plugin>  
+    <class>com.zry.userRoom.UserRoomPlugin</class>  
+    <name>UserRoom</name>  
+    <description>获取跟用户相关的房间</description>  
+    <author>赵日阳</author>  
+    <version>1.0.0</version>  
+    <date>01/12/2017</date>  
+    <minServerVersion>3.9.0</minServerVersion>  
+      
+    <adminconsole>  
+    </adminconsole>  
+  
+</plugin>  

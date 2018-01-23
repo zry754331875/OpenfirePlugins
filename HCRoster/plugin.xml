@@ -1,0 +1,13 @@
+<plugin>  
+    <class>com.zry.HCRoster.HCRosterPlugin</class>  
+    <name>HCRoster</name>  
+    <description>对于roster的二次定义，定义成最近联系人列表，在个人、群组中有人发出消息时，加入对应的人员中</description>  
+    <author>赵日阳</author>  
+    <version>1.0.0</version>  
+    <date>01/12/2017</date>  
+    <minServerVersion>3.9.0</minServerVersion>  
+      
+    <adminconsole>  
+    </adminconsole>  
+  
+</plugin> 
